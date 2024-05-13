@@ -29,7 +29,7 @@ export const optionDefaults = Object.freeze({
   displayNotifications: true,
   displayReleaseNotes: false,
   customGatewayUrl: 'http://localhost:8080',
-  ipfsApiUrl: 'http://127.0.0.1:5001',
+  ipfsApiUrl: 'http://127.0.0.1:15001',
   ipfsApiPollMs: 3000,
   logNamespaces: 'jsipfs*,ipfs*,libp2p:mdns*,libp2p-delegated*,-*:ipns*,-ipfs:preload*,-ipfs-http-client:request*,-ipfs:http-api*',
   importDir: '/ipfs-companion-imports/%Y-%M-%D_%h%m%s/',
