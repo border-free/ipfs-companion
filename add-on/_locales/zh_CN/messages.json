@@ -1,14 +1,14 @@
 {
   "browserAction_title": {
-    "message": "IPFS 伴侣",
+    "message": "Borderfree IPFS",
     "description": "A pop-up title when user hovers on Browser Action button (browserAction_title)"
   },
   "panel_headerIpfsNodeIconLabel": {
-    "message": "IPFS 伴侣",
+    "message": "Borderfree IPFS",
     "description": "A label for IPFS icon (panel_headerIpfsNodeIconLabel)"
   },
   "panel_headerNewVersionTitle": {
-    "message": "IPFS 伴侣已经升级到新版本！点击查看详情。",
+    "message": "Borderfree IPFS已经升级到新版本！点击查看详情。",
     "description": "A label in the Browser Action pop-up for icon appearing on first load of new version (panel_headerNewVersionTitle)"
   },
   "panel_headerActiveToggleTitle": {
@@ -68,7 +68,7 @@
     "description": "A menu item in Browser Action pop-up (panel_openWebuiTooltip)"
   },
   "panel_openPreferences": {
-    "message": "打开IPFS 伴侣的首选项",
+    "message": "打开Borderfree IPFS的首选项",
     "description": "A menu item in Browser Action pop-up (panel_openPreferences)"
   },
   "panel_activeTabSectionHeader": {
@@ -528,7 +528,7 @@
     "description": "An option title for tweaking log level (option_logNamespaces_title)"
   },
   "option_logNamespaces_description": {
-    "message": "此逗号分隔列表中的名称空间将会被记录到浏览器控制台。更改此列表将重新启动IPFS 伴侣。",
+    "message": "此逗号分隔列表中的名称空间将会被记录到浏览器控制台。更改此列表将重新启动Borderfree IPFS。",
     "description": "An option description for the log level (option_logNamespaces_description)"
   },
   "option_importDir_title": {
@@ -536,7 +536,7 @@
     "description": "An option title on the Preferences screen (option_importDir_title)"
   },
   "option_importDir_description": {
-    "message": "设定你使用IPFS 伴侣导入文件时的目录",
+    "message": "设定你使用Borderfree IPFS导入文件时的目录",
     "description": "An option description on the Preferences screen (option_importDir_description)"
   },
   "option_resetAllOptions_title": {
@@ -544,15 +544,15 @@
     "description": "An option title and button label on the Preferences screen (option_resetAllOptions_title)"
   },
   "option_resetAllOptions_description": {
-    "message": "重置所有的IPFS 伴侣的首选项到默认的设定。警告：这项操作不可逆！",
+    "message": "重置所有的Borderfree IPFS的首选项到默认的设定。警告：这项操作不可逆！",
     "description": "An option description on the Preferences screen (option_resetAllOptions_description)"
   },
   "manifest_extensionName": {
-    "message": "IPFS 伴侣",
+    "message": "Borderfree IPFS",
     "description": "Extension name in the Manifest file (manifest_extensionName)"
   },
   "manifest_shortExtensionName": {
-    "message": "IPFS 伴侣",
+    "message": "Borderfree IPFS",
     "description": "Short extension name in the Manifest file (manifest_shortExtensionName)"
   },
   "manifest_extensionDescription": {
@@ -560,7 +560,7 @@
     "description": "Extension description in the Manifest file (manifest_extensionDescription)"
   },
   "quickImport_page_title": {
-    "message": "导入 & 分享文件 | IPFS 伴侣",
+    "message": "导入 & 分享文件 | Borderfree IPFS",
     "description": "Page title (quickImport_page_title)"
   },
   "quickImport_head_peers": {
@@ -604,11 +604,11 @@
     "description": "Checkbox label on the share files page (quickImport_options_openViaWebUI)"
   },
   "page_landingWelcome_title": {
-    "message": "欢迎使用 | IPFS 伴侣",
+    "message": "欢迎使用 | Borderfree IPFS",
     "description": "Page title (page_landingWelcome_title)"
   },
   "page_landingWelcome_logo_title": {
-    "message": "IPFS 伴侣",
+    "message": "Borderfree IPFS",
     "description": "Extension name after the IPFS logo (page_landingWelcome_logo_title)"
   },
   "page_landingWelcome_welcome_peers": {
@@ -660,7 +660,7 @@
     "description": "Resources title (page_landingWelcome_resources_title_new_ipfs)"
   },
   "page_landingWelcome_resources_new_ipfs_companion_features": {
-    "message": "查看<0>IPFS伴侣功能</0>",
+    "message": "查看<0>Borderfree IPFS功能</0>",
     "description": "Resources copy (page_landingWelcome_resources_new_ipfs_companion_features)"
   },
   "page_landingWelcome_resources_new_ipfs_concepts": {
@@ -760,7 +760,7 @@
     "description": "A description for the 'tracking' grouping of metrics we collect (option_telemetryGroupTracking_description)"
   },
   "recovery_page_title": {
-    "message": "IPFS节点 | IPFS 伴侣 出现问题",
+    "message": "IPFS节点 | Borderfree IPFS 出现问题",
     "description": "Title of the recovery page (recovery_page_title)"
   },
   "recovery_page_sub_header": {
@@ -772,7 +772,7 @@
     "description": "Message Para-1 on the recovery screen (recovery_page_message_p1)"
   },
   "recovery_page_message_p2": {
-    "message": "您还可以通过IPFS 伴侣中设置的首选公共网关来访问所请求资源的反序列化版本。当然这将信任下面的第三方地址，同时会跳过本地哈希验证。",
+    "message": "您还可以通过Borderfree IPFS中设置的首选公共网关来访问所请求资源的反序列化版本。当然这将信任下面的第三方地址，同时会跳过本地哈希验证。",
     "description": "Message Para-2 on the recovery screen (recovery_page_message_p2)"
   },
   "recovery_page_button": {
@@ -784,7 +784,7 @@
     "description": "Learn more link on the recovery screen (recovery_page_learn_more)"
   },
   "recovery_page_update_preferences": {
-    "message": "更新您的IPFS 伴侣首选项",
+    "message": "更新您的Borderfree IPFS首选项",
     "description": "Learn more link on the recovery screen (recovery_page_learn_more)"
   },
   "request_permissions_page_title": {
